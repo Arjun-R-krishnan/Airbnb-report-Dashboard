@@ -42,6 +42,10 @@ Insight: Listings are concentrated in Manhattan and Brooklyn, aligning with high
 9. Map of Average Price by Area
 Geographic Trend: High density of listings in Manhattan and surrounding areas.
 Insight: Higher Airbnb activity is concentrated in central, easily accessible locations.
+
+
+
+
 Summary
 The dashboard reveals that Airbnb activity is highly concentrated in popular neighborhoods (Manhattan and Brooklyn) with higher prices. There is a clear seasonal pattern with peak activity in July and August. The data suggests potential for growth in underrepresented areas such as the Bronx and Staten Island. Additionally, targeting marketing efforts around peak seasons can maximize engagement and bookings.
 
