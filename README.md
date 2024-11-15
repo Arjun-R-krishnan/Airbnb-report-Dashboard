@@ -47,6 +47,8 @@ Insight: Higher Airbnb activity is concentrated in central, easily accessible lo
 
 
 Summary
+
+
 The dashboard reveals that Airbnb activity is highly concentrated in popular neighborhoods (Manhattan and Brooklyn) with higher prices. There is a clear seasonal pattern with peak activity in July and August. The data suggests potential for growth in underrepresented areas such as the Bronx and Staten Island. Additionally, targeting marketing efforts around peak seasons can maximize engagement and bookings.
 
 ![image](https://github.com/user-attachments/assets/f19c9b9c-0451-40cf-9d6f-d80ac60a4034)
